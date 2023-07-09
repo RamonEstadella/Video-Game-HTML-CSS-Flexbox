@@ -1,8 +1,10 @@
-# -demy-video-game-website
-# Video-Game-HTML5-CSS3
-# Video-Game-HTML5-CSS3
-# Video-Game-HTML5-CSS3
-# Video-Game-HTML5-CSS3
-# Video-Game-HTML5-CSS3
-# Video-Game-HTML-CSS-Flexbox
-# Video-Game-HTML-CSS-Flexbox
+# Videojuegos
+Proyecto **Frontend** en **HTML**, **CSS** para la página web ficticia de Videojuegos.
+
+- **Herramientas**: Visual Studio Code, Chrome Dessarollador F12, Git.
+
+
+## Formación
+- ÛDEMY, curso de J. Durand.
+
+
